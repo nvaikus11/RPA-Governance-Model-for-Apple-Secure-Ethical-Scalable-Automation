@@ -144,13 +144,13 @@ The governance model is built on **six key pillars**:
 - 50% reduction in manual processing time
 
 ### **Scalability & Adoption**
-- # of active bots per function
+-  of active bots per function
 - % of business units using RPA
 
 ### **Innovation & ESG Impact**
 - Estimated X **FTE hours saved**
 - ** X Amount of CO2 reduction** through reduced compute load or paperless operations
-- # X number of AI-enhanced automations
+- X number of AI-enhanced automations
 
 ---
 
