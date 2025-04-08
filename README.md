@@ -149,7 +149,7 @@ The governance model is built on **six key pillars**:
 
 ### **Innovation & ESG Impact**
 - Estimated X **FTE hours saved**
-- ** X Amount of CO2 reduction** through reduced compute load or paperless operations
+- X Amount of CO2 reduction through reduced compute load or paperless operations
 - X number of AI-enhanced automations
 
 ---
